@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "repository": "akggautamasar/website-codes",
+  "effects": [
+    {
+      "id": "kage",
+      "component": "KageLandingPage",
+      "runtime": "Full HTML + DOM/CSS + Three.js",
+      "sourceRevision": "c8e06b90397a",
+      "bundle": "effects/kage/SOURCE-BUNDLE.txt"
+    },
+    {
+      "id": "sketchbook",
+      "component": "MengToSketchbookLandingPage",
+      "runtime": "Full HTML + DOM/CSS + JavaScript",
+      "sourceRevision": "e0330548b1ac",
+      "bundle": "effects/sketchbook/SOURCE-BUNDLE.txt"
+    },
+    {
+      "id": "sylva-living-green",
+      "component": "SylvaHero",
+      "runtime": "Full HTML + DOM/CSS + local Three.js",
+      "sourceRevision": "05f359ce157a",
+      "bundle": "effects/sylva-living-green/SOURCE-BUNDLE.txt"
+    },
+    {
+      "id": "complete-shelf",
+      "component": "CompleteShelfLandingPage",
+      "runtime": "Full HTML + DOM/CSS + Three.js r165",
+      "sourceRevision": "606f200fed86",
+      "bundle": "effects/complete-shelf/SOURCE-BUNDLE.txt"
+    }
+  ]
+}
