@@ -29,6 +29,14 @@
       "runtime": "Full HTML + DOM/CSS + Three.js r165",
       "sourceRevision": "606f200fed86",
       "bundle": "effects/complete-shelf/SOURCE-BUNDLE.txt"
+    },
+    {
+      "id": "3d-paper",
+      "component": "ThreeDPaper",
+      "variant": "original",
+      "runtime": "Bundled Three.js r149 + custom GLSL + CanvasTexture",
+      "sourceRevision": "8ec1b71c0dbc",
+      "source": "effects/3d-paper/src/shaders/3d-paper"
     }
   ]
 }
